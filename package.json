@@ -1,5 +1,5 @@
 {
-  "name": "auth-jwt",
+  "name": "@mohamd__ali/auth-jwt",
   "version": "1.0.0",
   "description": "authentication using jwt",
   "main": "jwtAuth.js",
